@@ -5,7 +5,7 @@ return one + two + three;
 }
 
 $(document).ready(function(){
-  $(".start").click(function(){
+  $(".begin").click(function(){
     $("#test").fadeToggle("slow");
   });
 

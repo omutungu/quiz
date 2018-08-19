@@ -1,8 +1,17 @@
-#exam{
+#test{
   display: none;
 }
 .begin{
   cursor: pointer;
   color: #558B2F;
   font-size: 20px;
+}
+}
+
+.start:hover{
+  text-decoration: underline;
+}
+
+.final{
+  display: none;
 }

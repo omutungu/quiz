@@ -1,6 +1,6 @@
 # {Quiz-Board}
-{This project is about of quiz,18/8/2018}
-By Charles Gateru
+{This project is about a Javascript Quiz board}
+By Onesmus Mutungu
 ## {Description}
 The application is about Quiz-Board which contains questions.
 ## Setup/Installation Requirements
